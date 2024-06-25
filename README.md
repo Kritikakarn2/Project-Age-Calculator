@@ -1,1 +1,1 @@
-# Project-Age-Calculator
+Python Project: Survival Duration Calculator
